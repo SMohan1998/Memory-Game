@@ -94,9 +94,6 @@ button{
 @media (max-width: 600px)
 {
     .game-board{
-        gap:8px;
-    }
-    .card{
-        max-width: 70px;
+        gap:3;
     }
 }
